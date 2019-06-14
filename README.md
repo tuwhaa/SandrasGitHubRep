@@ -1,3 +1,3 @@
 # Python Introduction
 ## Authors
-Sandra
+Alexandra Haas
